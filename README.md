@@ -1,7 +1,8 @@
 ## LinearRegressionFV
 
 License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
-Owners: Toufique Morshed, Noman Mohammed
+
+Owners: Noman Mohammed, Rui Chen, and Benjamin C. M. Fung
 #### Publication:
 Morshed, Toufique, Dima Alhadidi, and Noman Mohammed. "Parallel Linear Regression on Encrypted Data." In _2018 16th Annual Conference on Privacy, Security and Trust (PST)_, pp. 1-5. IEEE, 2018.
 
